@@ -6,6 +6,8 @@
 
 This project implements an AI agent that demonstrates its problem-solving process by showing its work step by step. The agent uses a scratchpad to record intermediate computations and reasoning steps, making it ideal for educational purposes or understanding complex calculations.
 
+The development of this GitHub Repository was inspired the "SHOW YOUR WORK: SCRATCHPADS FOR INTERMEDIATE COMPUTATION WITH LANGUAGE MODELS" Paper, Paper can be found by clicking this link: https://arxiv.org/pdf/2112.00114
+
 ## 🌟 Features
 
 - Step-by-step computation display
