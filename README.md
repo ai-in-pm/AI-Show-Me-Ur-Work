@@ -161,7 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
 - Special thanks to the Python community for the amazing tools and libraries
 
 ## 📬 Contact
